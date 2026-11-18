@@ -1,7 +1,5 @@
 # Jon Sabutis
 
-[![A pointer crossing rows of identical buttons, each firing its own hover mechanism](https://raw.githubusercontent.com/jsabutis/button-interaction-specs/main/media/sweep.gif)](https://jsabutis.github.io/button-interaction-specs/)
-
-**[Button interaction specs](https://jsabutis.github.io/button-interaction-specs/)**: 131 hover and press mechanisms on one identical button, pure CSS where CSS can do it. Every specimen honours `prefers-reduced-motion` and keeps its label legible at every frame. [Source](https://github.com/jsabutis/button-interaction-specs).
+**[Design for equity specs](https://github.com/jsabutis/design-for-equity-specs)**: project-ready specs for products that don't exclude people. They cover bias audits, gender bias, disability and ableism, color vision deficiency, color by country across 140 markets, constrained devices and networks, AI in design and product, and WCAG 2.2 AA and AAA.
 
 Recent: [MDN, outline contrast is governed by SC 1.4.11](https://github.com/mdn/content/pull/45769).
